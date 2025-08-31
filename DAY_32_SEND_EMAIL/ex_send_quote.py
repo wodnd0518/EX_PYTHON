@@ -2,8 +2,8 @@ import smtplib
 import datetime as dt
 import random
 
-MY_EMAIL = "wodnd0518@gmail.com"
-MY_PASSWORD = "stcj pffr ettx duee"
+MY_EMAIL = "youremail@gmail.com"
+MY_PASSWORD = "****"
 SET_WEEKDAY = 5 ## Mon:0
 
 
@@ -30,4 +30,5 @@ def send_email(quote):
         )
 
 if is_Saturday():
+
     send_email(pick_random_quote())
