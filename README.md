@@ -1,5 +1,11 @@
-# VISION
-### **Mini-Project: Object-Detection & Tracking with fallen, standing human**
+# PYTHON EXERCISE
+https://www.udemy.com/course/best-100-days-python/
+- DAY 32: smtplib(Dealing with e-mails)
+- DAY 33: API(Dealing with Json)
+
+---
+## MINI PROJECT
+### **VISION: Object-Detection & Tracking with fallen, standing human**
 
 ### Overall Pipeline
 - Model Preparation
