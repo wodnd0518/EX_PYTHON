@@ -1,8 +1,12 @@
 # PYTHON EXERCISE
+### UDEMY
 https://www.udemy.com/course/best-100-days-python/
 - DAY 32: smtplib(Dealing with e-mails)
 - DAY 33: API(Dealing with Json)
-
+---
+### PROGRAMMERS (for coding test & algorithms)
+- Exhaustive Search
+- 
 ---
 ## MINI PROJECT
 ### **VISION: Object-Detection & Tracking with fallen, standing human**
