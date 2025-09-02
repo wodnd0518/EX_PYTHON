@@ -3,6 +3,12 @@
 https://www.udemy.com/course/best-100-days-python/
 - DAY 32: smtplib(Dealing with e-mails)
 - DAY 33: API(Dealing with Json)
+- DAY 37: API(POST, PUT, DELETE) - habit tracker
+
+**영어 자막 없이 콘텐츠 보기 챌린지**
+: 매일 영어 자막 없이 영상을 보며 꾸준함을 기록해보고자 했습니다.
+
+  ![No English Subtitles Graph](https://pixe.la/v1/users/jay-jay/graphs/graph123)
 ---
 ### PROGRAMMERS (for coding test & algorithms)
 - Exhaustive Search
